@@ -1,0 +1,20 @@
+{
+  "title": "Titolo dell'account",
+  "information": "Informazione dell'account",
+  "id": "ID dell'account",
+  "email.address": "Email",
+  "password": "Password",
+  "permission": "Permesso",
+  "creation.date": "Data di creazione",
+  "linked.accounts": "Account collegati",
+  "data": "Data dell'account",
+  "settings": "Impostazione Account",
+  "settings.optifine": "Impostazione Optifine",
+  "settings.minecraftcapes": "Impostazione Mantelli",
+  "settings.laby": "Impostazione LabyMod",
+  "settings.newsletter": "Impostazione Newsletter",
+  "settings.seeFonts": "Impostazione dei Fonts di Testo",
+  "settings.defercache": "Impostazione Cache",
+  "settings.seeAds": "Mostra annunci",
+  "more-info": "Maggiori informazioni"
+}
